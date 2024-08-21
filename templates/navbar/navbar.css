@@ -1,0 +1,23 @@
+/* header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+.logo,
+.nav-item {
+  color: white;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+    transition: all .4s;
+}
