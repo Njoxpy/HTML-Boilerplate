@@ -1,0 +1,9 @@
+# files to be ignored
+
+# node modules
+node_modules
+
+# dstribution files
+dist/
+
+.DS_Store
