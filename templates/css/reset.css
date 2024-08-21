@@ -1,0 +1,29 @@
+/* reset browser styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* reset links */
+a{
+    text-decoration: none;
+}
+
+/* reset unordered list */
+ul{
+    list-style: none;
+}
+
+/* body */
+body{
+    user-select: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    background-color: #fff;
+}
+
+/* button */
+button{
+    cursor: pointer;
+}
