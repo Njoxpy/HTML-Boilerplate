@@ -12,3 +12,6 @@ dist/
 vs_code
 vs code
 .vscode
+
+# env
+.env
